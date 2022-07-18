@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
     providedIn: 'root'
 })
 export class ProductService {
-    apiURL = 'http://143.198.166.220:3000';
+    apiURL = 'http://134.122.124.0:3000';
 
     constructor(private http: HttpClient) {}
 
